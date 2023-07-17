@@ -2,4 +2,4 @@
 - 👀 I’m interested in AGI, AI, Metaverse & Startups
 - 🌱 I’m currently learning Android Development & ML Engineering
 - 💞️ I’m looking to collaborate on Monosync (A private ChatGPT-based Android app)
-- 📫 How to reach me amirhosseinhaghy9@gmail.com, mramirkhann on Telegram, amirhossein haghy on github
+- 📫 How to reach me amirhosseinhaghy9@gmail.com, mramirkhann on Telegram, amirhossein haghy on linkedin
